@@ -34,3 +34,9 @@ button {
 .card-contents {
   padding: 5px 5px 10px 5px;
 }
+
+
+ /* Set display to none for image*/
+ #image {
+  display: none;
+}
